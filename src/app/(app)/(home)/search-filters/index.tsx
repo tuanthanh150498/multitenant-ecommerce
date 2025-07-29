@@ -13,7 +13,7 @@ export const SearchFilters = () => {
     <div
       className="px-4 lg:px-12 py-8 border-b flex flex-col gap-4 w-full"
       style={{
-        backgroundColor: "f5f5f5",
+        backgroundColor: "#f5f5f5",
       }}
     >
       <SearchInput />
@@ -29,7 +29,7 @@ export const SearchFiltersSkeleton = () => {
     <div
       className="px-4 lg:px-12 py-8 border-b flex flex-col gap-4 w-full"
       style={{
-        backgroundColor: "f5f5f5",
+        backgroundColor: "#f5f5f5",
       }}
     >
       <SearchInput disabled />
